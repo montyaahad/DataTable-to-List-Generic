@@ -1,0 +1,10 @@
+E:\own\DataTableToListExample\DataTableToListExample\bin\Debug\DataTableToListExample.exe
+E:\own\DataTableToListExample\DataTableToListExample\bin\Debug\DataTableToListExample.pdb
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.FormDataTableToList.resources
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.Properties.Resources.resources
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.csproj.GenerateResource.Cache
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.exe
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.pdb
+E:\own\DataTableToListExample\DataTableToListExample\bin\Debug\DataTableToListLib.dll
+E:\own\DataTableToListExample\DataTableToListExample\bin\Debug\DataTableToListLib.pdb
+E:\own\DataTableToListExample\DataTableToListExample\obj\x86\Debug\DataTableToListExample.csprojResolveAssemblyReference.cache

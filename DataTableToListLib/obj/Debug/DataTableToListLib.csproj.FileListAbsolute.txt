@@ -1,0 +1,4 @@
+E:\own\DataTableToListExample\DataTableToListLib\bin\Debug\DataTableToListLib.dll
+E:\own\DataTableToListExample\DataTableToListLib\bin\Debug\DataTableToListLib.pdb
+E:\own\DataTableToListExample\DataTableToListLib\obj\Debug\DataTableToListLib.dll
+E:\own\DataTableToListExample\DataTableToListLib\obj\Debug\DataTableToListLib.pdb
